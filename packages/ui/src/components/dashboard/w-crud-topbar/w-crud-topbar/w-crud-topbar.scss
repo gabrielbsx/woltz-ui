@@ -1,0 +1,11 @@
+.topbar {
+  display: flex;
+  flex: 1;
+  gap: 1rem;
+
+  &__controls {
+    display: flex;
+    align-items: center;
+    gap: .4rem;
+  }
+}

@@ -38,7 +38,7 @@
     "unplugin-vue-components": "^0.24.1",
     "unplugin-vue-router": "^0.5.5",
     "vite": "^4.3.3",
-    "vue": "^3.3.4",
+    "react": "^18.2.0",
     "waltz-icons": "*"
   },
   "devDependencies": {
